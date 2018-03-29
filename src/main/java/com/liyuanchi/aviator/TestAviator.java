@@ -1,4 +1,4 @@
-package AviatorTest;
+package com.liyuanchi.aviator;
 
 import java.util.Date;
 

@@ -8,6 +8,7 @@ import com.googlecode.aviator.runtime.function.FunctionUtils;
 import com.googlecode.aviator.runtime.type.AviatorDouble;
 import com.googlecode.aviator.runtime.type.AviatorObject;
 import com.googlecode.aviator.runtime.type.AviatorString;
+import com.liyuanchi.aviator.TestAviator;
 import org.junit.Test;
 
 import java.math.BigDecimal;
