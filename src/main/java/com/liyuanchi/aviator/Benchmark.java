@@ -28,10 +28,12 @@ public class Benchmark {
         // AviatorEvaluator.setTrace(true);
         // AviatorEvaluator.setTraceOutputStream(new FileOutputStream(new
         // File("aviator.log")));
-        testCompile();
+        //编译性能测试
+       // testCompile();
+
         testLiteral();
-        testVariableExpression();
-        testFunction();
+//        testVariableExpression();
+//        testFunction();
     }
 
 
